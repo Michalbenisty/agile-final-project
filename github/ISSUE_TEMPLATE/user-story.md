@@ -1,29 +1,13 @@
----
+As a product owner
 
-name: User Story
+I need the ability to create a product in the catalog
 
-about: Create a user story
+So that new products can be added to the e-commerce platform
 
-title: ''
+Acceptance Criteria
 
-labels: ''
+Given a valid product name and description
 
-assignees: ''
+When a product owner submits a new product
 
----
-
-**As a** [role]
-
-**I need** [function]
-
-**So that** [benefit]
-
-### Acceptance Criteria
-
-```gherkin
-
-Given
-
-When
-
-Then
+Then the product is successfully created in the catalog
